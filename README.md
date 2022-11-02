@@ -1,3 +1,3 @@
 # Tiles Maker :
 
-Creates and render a tile patern.
+Create and render a tile pattern.
